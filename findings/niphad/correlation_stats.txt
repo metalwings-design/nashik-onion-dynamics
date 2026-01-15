@@ -1,0 +1,9 @@
+--- Stats for niphad ---
+Pearson Corr (Price t-1 vs Single_Kharif): -0.056
+Mean Supply Elasticity (Single_Kharif): -1.886
+Pearson Corr (Price t-1 vs Single_Non_Kharif): -0.126
+Mean Supply Elasticity (Single_Non_Kharif): -133.084
+Pearson Corr (Price t-1 vs Double_Crop): 0.274
+Mean Supply Elasticity (Double_Crop): 2.114
+Pearson Corr (Price t-1 vs Triple_Crop): -0.535
+Mean Supply Elasticity (Triple_Crop): -6.489
