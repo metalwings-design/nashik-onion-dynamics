@@ -1,0 +1,13 @@
+streamlit
+pandas
+geopandas
+rasterio
+matplotlib
+seaborn
+Pillow
+openpyxl
+scientific
+shapely
+scipy
+numpy
+requests
