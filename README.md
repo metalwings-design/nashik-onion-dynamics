@@ -3,10 +3,15 @@ This project reflects my enthusiasm for exploring the interaction between geospa
 
 Map:
 / (Root)
-├── findings/
-├── nsk_dist_plt/
-├── webapp/
+
+├── findings
+
+├── nsk_dist_plt
+
+├── webapp
 │   └── app.py
 ├── pearson.csv
+
 ├── elasticity.csv
+
 ├── requirements.txt
