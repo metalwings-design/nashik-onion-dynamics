@@ -1,0 +1,9 @@
+--- Stats for igatpuri ---
+Pearson Corr (Price t-1 vs Single_Kharif): 0.148
+Mean Supply Elasticity (Single_Kharif): -0.369
+Pearson Corr (Price t-1 vs Single_Non_Kharif): -0.108
+Mean Supply Elasticity (Single_Non_Kharif): -42.117
+Pearson Corr (Price t-1 vs Double_Crop): -0.310
+Mean Supply Elasticity (Double_Crop): 3.032
+Pearson Corr (Price t-1 vs Triple_Crop): -0.100
+Mean Supply Elasticity (Triple_Crop): -2.030
