@@ -1,0 +1,9 @@
+--- Stats for nandgaon ---
+Pearson Corr (Price t-1 vs Single_Kharif): 0.197
+Mean Supply Elasticity (Single_Kharif): 3.872
+Pearson Corr (Price t-1 vs Single_Non_Kharif): -0.198
+Mean Supply Elasticity (Single_Non_Kharif): -64.345
+Pearson Corr (Price t-1 vs Double_Crop): 0.110
+Mean Supply Elasticity (Double_Crop): 5.023
+Pearson Corr (Price t-1 vs Triple_Crop): -0.009
+Mean Supply Elasticity (Triple_Crop): -17.228
