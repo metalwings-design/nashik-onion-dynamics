@@ -12,5 +12,6 @@ This project was developed as part of the **CoRE Stack Innovation Challenge on G
 
 * **Live Interactive Dashboard:** [View Dashboard](https://nashik-onion-dynamics-c45btfoncjezeeoecgxpn4.streamlit.app/)
 * **Official Challenge Details:** [CoRE Stack Innovation Challenge](https://core-stack.org/core-stack-innovation-challenge-1st-edition/)
+* **Video:** (https://www.youtube.com/watch?v=-DvfvyavPAg)
 
 ---
