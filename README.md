@@ -15,3 +15,22 @@ This project was developed as part of the **CoRE Stack Innovation Challenge on G
 * **Video:** (https://www.youtube.com/watch?v=-DvfvyavPAg)
 
 ---
+## Citation
+If you find it helpful, please cite:
+
+ DOI: 10.5281/zenodo.20527852
+ 
+**BibTeX:**
+```bibtex
+@software{sanket_g_2026_20527852,
+  author       = {Sanket G.},
+  title        = {metalwings-design/nashik-onion-dynamics: Nashik
+                   Onion Dynamics
+                  },
+  month        = jun,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.20527852},
+  url          = {https://doi.org/10.5281/zenodo.20527852},
+}
